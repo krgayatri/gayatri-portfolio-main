@@ -17,7 +17,7 @@ function WhoIM() {
             <p className="text-start mt-3 mx-auto md:mx-0">
             I'm Gayatri, a Frontend Web Developer from Tirupati and
               expertise in React, Node.js, and Express.js. With over
-              1.5 years of experience, I've built high-performing web
+              3.5 years of experience, I've built high-performing web
               applications, including blogging platforms and e-commerce
               solutions. With a passion for learning and attention to detail,
                I'm committed to delivering impactful digital experiences. 
